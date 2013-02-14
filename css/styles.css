@@ -1,0 +1,15 @@
+body {
+    font-size: small;
+    color: grey;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    border-bottom: 1px dotted red;
+}
+
+/* Main blocks on the popup */
+body > div {
+    padding: 6px;
+}
